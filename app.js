@@ -18,4 +18,5 @@ for (let nombre = 1; nombre <= 100; nombre++) {
     else {
         console.log(nombre + " => " + nombre);
     }
+    
 }
